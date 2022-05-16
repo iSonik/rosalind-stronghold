@@ -15,3 +15,5 @@ print(dataset.count("A"))
 print(dataset.count("C"))
 print(dataset.count("G"))
 print(dataset.count("T"))
+
+# Output would be something like: "207 196 227 227"
