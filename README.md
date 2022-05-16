@@ -1,5 +1,5 @@
 # rosalind-stronghold
-Solving the bioinformatic problems from rosalind.info
+Solving the bioinformatic problems from <a href="https://rosalind.info">Rosalind</>
 
 <hr>
 INDEX:
