@@ -7,7 +7,7 @@ INDEX:
 <a href="https://github.com/iSonik/rosalind-stronghold/blob/main/CountingDNANucleotides.py">Problem 1: Counting DNA Nucleotides</a><br>
 <a href="https://github.com/iSonik/rosalind-stronghold/blob/main/TranscribingDNAintoRNA.py">Problem 2: Transcribing DNA into RNA</a><br>
 <a href="https://github.com/iSonik/rosalind-stronghold/blob/main/ComplementingAStrandOfDNA.py">Problem 3: ComplementingAStrandOfDNA</a><br>
-<a href="[https://github.com/iSonik/rosalind-stronghold/blob/main/ComplementingAStrandOfDNA.py](https://github.com/iSonik/rosalind-stronghold/blob/main/Rabbits%20and%20Recurrence%20Relations.py">Problem 4: Rabbits and Recurrence Relations</a><br>
+<a href="https://github.com/iSonik/rosalind-stronghold/blob/main/Rabbits%20and%20Recurrence%20Relations.py">Problem 4: Rabbits and Recurrence Relations</a><br>
 
 
 
