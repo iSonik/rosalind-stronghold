@@ -25,5 +25,6 @@ plt.ylabel("Month")
 plt.xlabel("Rabbits")
 plt.plot(monthArr, childArr)
 plt.show()
+<img> 
 
 
