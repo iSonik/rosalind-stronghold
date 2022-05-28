@@ -20,5 +20,7 @@ INDEX:
  <a href="https://github.com/iSonik/rosalind-stronghold/blob/main/translatingRNA/translatingRNAintoProtein.py">Problem 8: Translating RNA into Protein 
 <br>
 <hr>
+ <a href="https://github.com/iSonik/rosalind-stronghold/blob/main/motifInDna.py">Problem 9: Motifs in DNA
+<br>
 
 
