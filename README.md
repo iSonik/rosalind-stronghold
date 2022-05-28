@@ -15,6 +15,8 @@ INDEX:
 
 <a href="https://github.com/iSonik/rosalind-stronghold/blob/main/countingpointmutations.py">Problem 6: Counting Point Mutations</a>
 <br>
-
+<a href="https://github.com/iSonik/rosalind-stronghold/blob/main/mendelsfirstlaw.py">Problem 7: Mendel's First Law
+<br>
 <hr>
+
 
