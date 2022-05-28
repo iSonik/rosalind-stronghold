@@ -17,6 +17,8 @@ INDEX:
 <br>
 <a href="https://github.com/iSonik/rosalind-stronghold/blob/main/mendelsfirstlaw.py">Problem 7: Mendel's First Law
 <br>
+ <a href="https://github.com/iSonik/rosalind-stronghold/blob/main/translatingRNA/RNAcodontable.txt">Problem 8: Translating RNA into Protein 
+<br>
 <hr>
 
 
