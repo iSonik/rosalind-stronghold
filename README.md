@@ -21,6 +21,7 @@ INDEX:
 <br>
  <a href="https://github.com/iSonik/rosalind-stronghold/blob/main/motifInDna.py">Problem 9: Motifs in DNA
 <br>
-
+ <a href="https://github.com/iSonik/rosalind-stronghold/blob/main/consensus%20and%20Profile/consensusAndProfile.py">Problem 9: Motifs in DNA
+<br>
 
 <hr>
